@@ -15,3 +15,4 @@ This repository contains an ANN model which is used to detect cancer as benign o
  6) Pandas
  7) Scikit-learn
  8) Numpy
+ 9) Jupyter Notebook
